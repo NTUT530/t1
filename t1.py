@@ -5,6 +5,6 @@ def hello(i,k):
 
 k=st.text_input("str?")
 i=int(st.number_input("number?"))
-confirm_input=st.button("OK")
-if confirm_input:
+buttom=st.button("OK")
+if buttom:
   hello(i,k)
