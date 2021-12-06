@@ -1,0 +1,7 @@
+import streamlit as st
+
+def hello(i):
+  st.write("hello\n"*i)
+
+i=int(st.text_input("number?"))
+hello(i)
