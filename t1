@@ -5,4 +5,5 @@ def hello(i,k):
 
 k=st.text_input("str?")
 i=int(st.number_input("number?"))
+st.button("OK")
 hello(i,k)
