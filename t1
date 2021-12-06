@@ -4,5 +4,5 @@ def hello(i,k):
   st.write((k+"\n")*i)
 
 k=st.text_input("str?")
-i=int(st.text_input("number?"))
+i=int(st.number_input("number?"))
 hello(i,k)
