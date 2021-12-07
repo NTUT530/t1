@@ -2,7 +2,7 @@ import random as rd
 import streamlit as st
 
 colse_full_rice=["銀記","今華"]
-colse_full_noodle=["銀記"]
+colse_full_noodle=["查無結果"]
 colse_rice=["咖食堂","蔣老爹","永和豆漿"]
 colse_noodle=["葛瑪莉","嵐迪","小四川"]
 colse_other=["麥當勞","永和豆漿","煎餅果子","小四川"]
