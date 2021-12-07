@@ -36,45 +36,29 @@ buttom=st.button("OK")
 if buttom:
     if far=="1":
         if full=="1":
-		if riceORnoodle=="1":
-			food=colse_full_rice
-
-		elif riceORnoodle=="2":
-
-			food=colse_full_noodle
-
-		elif riceORnoodle=="3":
-
-			food=colse_full_rice+colse_full_noodle
-
-	elif full=="2":
-
-		if riceORnoodle=="1":
-
-			food=colse_rice
-
-		elif riceORnoodle=="2":
-
-			food=colse_noodle
-
-		elif riceORnoodle=="3":
-
-			food=colse_rice+colse_noodle+colse_other
+			if riceORnoodle=="1":
+				food=colse_full_rice
+			elif riceORnoodle=="2":
+				food=colse_full_noodle
+			elif riceORnoodle=="3":
+				food=colse_full_rice+colse_full_noodle
+		elif full=="2":
+			if riceORnoodle=="1":
+				food=colse_rice
+			elif riceORnoodle=="2":
+				food=colse_noodle
+			elif riceORnoodle=="3":
+				food=colse_rice+colse_noodle+colse_other
 
     elif far=="2":
-	if full=="1":
-		if riceORnoodle=="1":
-			food=far_full_rice
-
-		elif riceORnoodle=="2":
-
-			food=far_full_noodle
-
-		elif riceORnoodle=="3":
-
-			food=far_full_rice+far_full_noodle+far_full_other
-
-	elif full=="2":
+		if full=="1":
+			if riceORnoodle=="1":
+				food=far_full_rice
+			elif riceORnoodle=="2":
+				food=far_full_noodle
+			elif riceORnoodle=="3":
+				food=far_full_rice+far_full_noodle+far_full_other
+				elif full=="2":
 
 		if riceORnoodle=="1":
 
