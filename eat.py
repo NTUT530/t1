@@ -51,7 +51,7 @@ if buttom:
 				food=colse_rice+colse_noodle+colse_other
 
     elif far=="2":
-		if full=="1":
+	if full=="1":
 			if riceORnoodle=="1":
 				food=far_full_rice
 			elif riceORnoodle=="2":
