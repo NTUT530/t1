@@ -1,7 +1,7 @@
 import random as rd
 import streamlit as st
 
-st.write("今天吃什麼？？")
+st.write("今晚我想來點？？")
 
 colse_full_rice=["銀記","今華"]
 colse_full_noodle=["查無結果"]
