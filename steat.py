@@ -1,5 +1,6 @@
 import random as rd
 import streamlit as st
+
 colse_full_rice=["銀記","今華"]
 colse_full_noodle=["銀記"]
 colse_rice=["咖食堂","蔣老爹","永豆"]
