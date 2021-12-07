@@ -26,13 +26,13 @@ button=st.button("OK")
 if button:
     if far=="1":
         if full=="1":
-        	if riceORnoodle=="1":
+			if riceORnoodle=="1":
         		food=colse_full_rice
 			elif riceORnoodle=="2":
 				food=colse_full_noodle
 			elif riceORnoodle=="3":
 				food=colse_full_rice+colse_full_noodle
-     elif full=="2":
+     	elif full=="2":
 			if riceORnoodle=="1":
 				food=colse_rice
 			elif riceORnoodle=="2":
