@@ -58,9 +58,10 @@ if buttom:
 				food=far_full_noodle
 			elif riceORnoodle=="3":
 				food=far_full_rice+far_full_noodle+far_full_other
-				elif full=="2":
+				
+		elif full=="2":
 
-		if riceORnoodle=="1":
+		f riceORnoodle=="1":
 
 			food=far_rice
 
