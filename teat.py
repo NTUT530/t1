@@ -19,7 +19,7 @@ far_other=["塞門甜不辣","永春蚵仔煎","大稻埕肉包","廟街餅店",
 
 
 
-far=st.text_input("1.近 2.遠 : ")
+far=st.text_input("1.近(北科) 2.遠 : ")
 full=st.text_input("1. 吃飽 2.吃好 : ")
 riceORnoodle=st.text_input("1. 飯 2.麵 3.都可 : ")
 
