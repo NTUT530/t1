@@ -25,11 +25,11 @@ far_other=["塞門甜不辣","永春蚵仔煎"]
 
 
 
-far=input("1.近 2.遠 : ")
+far=st.text_input("1.近 2.遠 : ")
 
-full=input("1. 吃飽 2.吃好 : ")
+full=st.text_input("1. 吃飽 2.吃好 : ")
 
-riceORnoodle=input("1. 飯 2.麵 3.都可 : ")
+riceORnoodle=st.text_input("1. 飯 2.麵 3.都可 : ")
 
 
 
