@@ -53,5 +53,4 @@ if button:
         food=far_noodle
       elif riceORnoodle=="3":
         food=far_rice+far_noodle+far_other
-       
-st.write(rd.choice(food))
+  st.write(rd.choice(food))
