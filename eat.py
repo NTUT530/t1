@@ -92,4 +92,4 @@ elif far=="2":
 			food=far_rice+far_noodle+far_other
 
 
-print(rd.choice(food))
+st.write(rd.choice(food))
