@@ -32,11 +32,11 @@ full=st.text_input("1. 吃飽 2.吃好 : ")
 riceORnoodle=st.text_input("1. 飯 2.麵 3.都可 : ")
 
 
-
-if far=="1":
-
-	if full=="1":		if riceORnoodle=="1":
-
+buttom=st.button("OK")
+if buttom:
+    if far=="1":
+        if full=="1":
+		if riceORnoodle=="1":
 			food=colse_full_rice
 
 		elif riceORnoodle=="2":
@@ -61,12 +61,9 @@ if far=="1":
 
 			food=colse_rice+colse_noodle+colse_other
 
-elif far=="2":
-
+    elif far=="2":
 	if full=="1":
-
 		if riceORnoodle=="1":
-
 			food=far_full_rice
 
 		elif riceORnoodle=="2":
