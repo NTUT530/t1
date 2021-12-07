@@ -21,8 +21,8 @@ full=st.text_input("1. 吃飽 2.吃好 : ")
 riceORnoodle=st.text_input("1. 飯 2.麵 3.都可 : ")
 
 
-buttom=st.button("OK")
-if buttom:
+button=st.button("OK")
+if button:
     if far=="1":
         if full=="1":
         	if riceORnoodle=="1":
