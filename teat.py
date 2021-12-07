@@ -4,16 +4,16 @@ import streamlit as st
 colse_full_rice=["銀記","今華"]
 colse_full_noodle=["查無結果"]
 colse_rice=["咖食堂","蔣老爹","永和豆漿"]
-colse_noodle=["葛瑪莉","嵐迪","小四川"]
-colse_other=["麥當勞","永和豆漿","煎餅果子","小四川"]
+colse_noodle=["葛瑪莉","小四川"]
+colse_other=["永和豆漿","煎餅果子","小四川"]
 
 
-far_full_rice=["九龍燒臘"]
+far_full_rice=["九龍燒臘","新莊燒臘"]
 far_full_noodle=["查無結果"]
 far_full_other=["查無結果"]
 far_rice=["查無結果"]
 far_noodle=["查無結果"]
-far_other=["塞門甜不辣","永春蚵仔煎"]
+far_other=["塞門甜不辣","永春蚵仔煎","大稻埕肉包"]
 
 
 
