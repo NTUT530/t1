@@ -1,6 +1,6 @@
 import streamlit as st
 
-page_bg_img="<style>
+page_bg_img="<style>"
 body{
 background-image:url("https://i2.oubafeng.com/c310dd/984e8ba3/98168beb452e5e0fbe69.jpg");
 
